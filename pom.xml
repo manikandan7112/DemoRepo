@@ -169,6 +169,7 @@
         </dependency>
 	</dependencies>
 	<build>
+	<filename> SpringMVC </filename>
 		<plugins>
 			<plugin>
 				<artifactId>maven-eclipse-plugin</artifactId>
