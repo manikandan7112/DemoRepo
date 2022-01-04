@@ -169,7 +169,7 @@
         </dependency>
 	</dependencies>
 	<build>
-	<filename> SpringMVC </filename>
+	<finalName> SpringMVC </finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-eclipse-plugin</artifactId>
